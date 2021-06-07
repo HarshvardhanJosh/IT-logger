@@ -1,5 +1,27 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "message": "Change the data modules",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2021-06-07T11:17:05.110Z",
+      "id": 1
+    },
+    {
+      "message": "Server specification 23X419 needs attention.",
+      "attention": true,
+      "tech": "Chris Trevor",
+      "date": "2021-06-07T11:18:02.430Z",
+      "id": 2
+    },
+    {
+      "message": " Set up the new environment on the servers",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-06-07T11:19:31.126Z",
+      "id": 3
+    }
+  ],
   "techs": [
     {
       "id": 1,
@@ -15,6 +37,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Trevor",
+      "id": 4
     }
   ]
 }

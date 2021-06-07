@@ -1,3 +1,11 @@
+# IT-Logger
+
+A React web application for keeping the tracks of IT issues, the assigned technicians and the status of tickets.Uses Redux for state management and JSON-Server as a mock backend.
+
+Libraries used are Redux, Redux Thunk, Fetch, Moment, Materialize.
+
+<img src='./src/images/IT-logger.png' alt='it-logger' width='800px'/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
